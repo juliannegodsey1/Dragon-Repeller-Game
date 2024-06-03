@@ -39,3 +39,8 @@ Dragon Repeller is an interactive text-based adventure game where players naviga
 - HTML
 - CSS
 - JavaScript
+
+
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
